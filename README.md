@@ -73,6 +73,11 @@ A modern Python GUI application for calculating **audit sampling sizes** under s
 - **Blurry UI on Windows**: High-DPI is enabled in the app; verify your display scaling.
 - **Exceptions field not showing**: It appears only when *Issues found? = Yes*.
 
+## GUI Image
+
+<img width="622" height="934" alt="Screenshot From 2025-10-31 13-37-23" src="https://github.com/user-attachments/assets/184eb5cb-e9d6-40a4-979e-8e871b6a6e0c" />
+
+
 ## 📄 License
 
 MIT — use freely in projects. Feedback and PRs welcome!
