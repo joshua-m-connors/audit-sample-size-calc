@@ -1,18 +1,17 @@
 # Audit Sample Size Calculator 🧮
 
-A modern Python GUI application for calculating **audit sampling sizes** under standard statistical and auditing assumptions (AU-C 530 / PCAOB AS 2315).
+For any friends out there in the audit field this is a modern Python GUI application for calculating **audit sampling sizes** under standard statistical and auditing assumptions (AU-C 530 / PCAOB AS 2315).
 
 ## ✨ Features
 
-- **Audit-style planning** using a binomial approximation (no "fudge factors").
+- **Audit-style planning** using a binomial approximation.
 - **Rollforward testing support**:
   - Uses **observed interim deviation rate** (exceptions / interim sample) to re-plan the full-year sample.
   - Ensures **proportional coverage** for the rollforward population.
-  - Clean UI: the **Exceptions Count** field only appears if *Issues found? = Yes*.
 - **Professional output**:
   - Results Summary panel (base, replanned, rollforward, adjusted totals).
   - PDF and CSV export.
-- **Modern UI**: Dark/light awareness, tooltips, and responsive layout.
+- **Modern UI**: Dark/light awareness in Windows, tooltips, and responsive layout.
 
 ## 📦 Requirements
 
