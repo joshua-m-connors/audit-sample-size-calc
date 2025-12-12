@@ -66,6 +66,8 @@ For any friends out there in the audit field this is a modern Python GUI applica
 - Tolerable deviation: **5%**
 - These yield a sample size of **≈ 44** (aligns with common audit sampling tables).
 
+  Note: I'm not entirely sure where the standard sample size of 25 came from, so this is what I think is more realistic and defensible.
+
 ## 🛠 Troubleshooting
 
 - **PDF export fails**: Ensure `reportlab` is installed (`pip install reportlab`).
